@@ -3,7 +3,6 @@
     padding: 1rem;
     border-radius: 1rem;
     background-color: #e8e8e8;
-    /* box-shadow: 20px 20px 60px #c5c5c5, */
-    /* -20px -20px 60px #ffffff; */
+    margin: 2rem 0;
     transition: 0.3s;
 }
